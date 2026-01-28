@@ -1,0 +1,3 @@
+[submodule "docs/sw_shared_docs"]
+	path = docs/sw_shared_docs
+	url = https://github.com/SongWish/sw_shared_docs.git
